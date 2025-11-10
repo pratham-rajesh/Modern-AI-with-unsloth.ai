@@ -1,4 +1,4 @@
-# Modern AI with Unsloth.ai — Assignment
+# Modern AI with Unsloth.ai 
 
 ## Colab Notebooks and Video Demos
 
