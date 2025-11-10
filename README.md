@@ -4,13 +4,13 @@
 
 ### Colab 1 — Full Finetuning
 [Open in Colab](https://colab.research.google.com/drive/1tosDQT9zGRRvbwQWbkwenQWZ8ow_pbpf?usp=sharing)  
-**YouTube Demo:** [Add link here]
+**YouTube Demo:** https://youtu.be/ugN5e9NC6to
 
 ---
 
 ### Colab 2 — LoRA Finetuning
 [Open in Colab](https://colab.research.google.com/drive/1rKHRCOiqVmMjlIcABvZWTQjt5D8pSabg?usp=sharing)  
-**YouTube Demo:** https://youtu.be/ugN5e9NC6to
+**YouTube Demo:** 
 
 ---
 
