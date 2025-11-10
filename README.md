@@ -10,22 +10,22 @@
 
 ### Colab 2 — LoRA Finetuning
 [Open in Colab](https://colab.research.google.com/drive/1rKHRCOiqVmMjlIcABvZWTQjt5D8pSabg?usp=sharing)  
-**YouTube Demo:** 
+**YouTube Demo:** https://youtu.be/PTXovX3eBIE
 
 ---
 
 ### Colab 3 — Reinforcement Learning (DPO / RLHF)
 [Open in Colab](https://colab.research.google.com/drive/1lQi2dVNiG4wlDJkDYibT66pMt-r49hU-?usp=sharing)  
-**YouTube Demo:** [Add link here]
+**YouTube Demo:** https://youtu.be/I9jvWrQf0dA
 
 ---
 
 ### Colab 4 — GRPO Reasoning Training
 [Open in Colab](https://colab.research.google.com/drive/1tiN-DRujFPWtPmOvnrtBQ4lS9BTJALk2?usp=sharing)  
-**YouTube Demo:** [Add link here]
+**YouTube Demo:** https://youtu.be/dTrN4qk52Co
 
 ---
 
 ### Colab 5 — Continued Pretraining
 [Open in Colab](https://colab.research.google.com/drive/1qUDaOTDggxxHh_C_-Yt3xAgn1RZJ2X-_?usp=sharing)  
-**YouTube Demo:** [Add link here]
+**YouTube Demo:** https://youtu.be/2LX4QKdAyeo
